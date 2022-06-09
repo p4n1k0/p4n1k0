@@ -1,7 +1,7 @@
 ## Olá, me chamo Gabriel ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-🔭 Apto em React </br>
+🔭 Estudando desenvolvimento web na Trybe </br>
 🌱 Atualmente estou aprendendo Redux
 
 
