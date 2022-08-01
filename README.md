@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 🔭 Estudando desenvolvimento web na Trybe </br>
-:star: Apto em front-end
+:star: Apto em front-end  </br>
 🌱 Atualmente estou aprendendo Docker
 
 
