@@ -2,7 +2,8 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 🔭 Estudando desenvolvimento web na Trybe </br>
-🌱 Atualmente estou aprendendo Redux
+:star: Apto em front-end
+🌱 Atualmente estou aprendendo Docker
 
 
 <div>
