@@ -3,7 +3,7 @@
 
 🔭 Estudando desenvolvimento web na Trybe </br>
 :star: Apto em front-end  </br>
-🌱 Atualmente estou aprendendo MySQL
+🌱 Atualmente estou aprendendo Node.js em back-end
 
 
 <div>
