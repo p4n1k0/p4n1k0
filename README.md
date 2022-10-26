@@ -25,7 +25,7 @@
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="POO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/poo/poo-original.svg"
+    <img align="center" alt="Solid" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solid/solid-original.svg"
 </div>
 
   <div>
