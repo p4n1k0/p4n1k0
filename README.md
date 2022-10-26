@@ -3,7 +3,7 @@
 
 🔭 Estudando desenvolvimento web na Trybe </br>
 :star: Apto em front-end  </br>
-🌱 Atualmente estou aprendendo TypeScrypt em back-end
+🌱 Atualmente estou aprendendo POO e Solid em back-end
 
 
 <div>
@@ -24,7 +24,8 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">    
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="POO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/poo/poo-original.svg"
 </div>
 
   <div>
