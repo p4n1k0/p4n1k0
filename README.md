@@ -3,7 +3,7 @@
 
 🔭 Estudando desenvolvimento web na Trybe </br>
 :star: Apto em front-end  </br>
-🌱 Atualmente estou aprendendo POO e Solid em back-end
+🌱 Atualmente estou aprendendo POO e SOLID em back-end
 
 
 <div>
