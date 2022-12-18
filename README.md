@@ -1,7 +1,7 @@
 ## Olá, me chamo Gabriel ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-🔭 Desenvolvendor Full-Stack </br>
+🔭 Desenvolvedor Full-Stack </br>
 🌱 Atualmente estou aprendendo mongodb em back-end
 
 
@@ -24,7 +24,7 @@
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg/">
+    <img align="center" alt="Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongo/mongo-original.svg/">
 </div>
 
   <div>
