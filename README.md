@@ -1,4 +1,4 @@
-## Olá, me chamo Gabriel ! 
+## Olá! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 🔭 Desenvolvedor Full-Stack </br>
