@@ -2,7 +2,6 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 🔭 Desenvolvedor Full-Stack </br>
-🌱 Atualmente estou tendo conhecimento e prática em python.
 
 
 <div>
