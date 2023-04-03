@@ -1,7 +1,9 @@
+<div align="center">
 ## Olá! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 🔭 Desenvolvedor Full-Stack </br>
+<div/>
 
 
 <div align="center">
