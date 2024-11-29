@@ -1,5 +1,5 @@
 ## Olá! 
-### Bem vindo ao meu perfil GitHub 👋
+### Bem vindo! 👋
 
 🔭 Desenvolvedor Full-Stack </br>
 
