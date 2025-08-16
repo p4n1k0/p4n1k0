@@ -1,5 +1,5 @@
 ## Olá! 
-### Bem vindo(a)!👋
+### Seja bem vindo(a)!👋
 
 🔭 Desenvolvedor Full-Stack </br>
 
