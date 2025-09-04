@@ -26,7 +26,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Railway" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-iginal.svg">
+  <img align="center" alt="Railway" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
 </div>
 
