@@ -28,6 +28,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">  
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Junit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg"> 
   <img align="center" alt="Hibernate" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg"> 
 </div>
 
