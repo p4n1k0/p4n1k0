@@ -12,8 +12,8 @@
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
   <img align="center" alt="Unix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -33,7 +33,8 @@
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> 
   <img align="center" alt="Junit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg"> 
-  <img align="center" alt="Hibernate" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg"> 
+  <img align="center" alt="Hibernate" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> 
 </div>
 
    
