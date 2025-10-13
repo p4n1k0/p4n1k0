@@ -44,7 +44,7 @@
   <img align="center" alt="Selenium" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Pandas" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Flask" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Django" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="DjangoRest" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg">
   <img align="center" alt="Railway" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Dot-Net" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
