@@ -33,18 +33,20 @@
   <img align="center" alt="Mocha" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg">
   <img align="center" alt="Express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Sequelize" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Insomnia" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="MongoDB" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> 
   <img align="center" alt="Pytest" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg">
   <img align="center" alt="Selenium" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Pandas" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Flask" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-  <img align="center" alt="DjangoRest" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg">
-  <img align="center" alt="Railway" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg">
+  <img align="center" alt="DjangoRest" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg">  
+  <img align="center" alt="Railway" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg">
   <img align="center" alt="Dot-Net" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Azure-Database" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Entity-Framework" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg">
   <img align="center" alt="Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Intellij" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Maven" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg">
   <img align="center" alt="Spring" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> 
   <img align="center" alt="Junit" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg"> 
