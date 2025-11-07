@@ -21,6 +21,7 @@
   <img align="center" alt="Unix" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
   <img align="center" alt="Eslint" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
   <img align="center" alt="JSON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
+  <img align="center" alt="Vite" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg">
   <img align="center" alt="Jest" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ReactRouter" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg">
