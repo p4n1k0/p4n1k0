@@ -27,7 +27,6 @@
   <img align="center" alt="ReactRouter" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg">
   <img align="center" alt="Redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Nodemon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Yaml" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -43,7 +42,6 @@
   <img align="center" alt="Pandas" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Flask" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
   <img align="center" alt="DjangoRest" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg">  
-  <img align="center" alt="Railway" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg">
   <img align="center" alt="DotNet" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="DotNetcore" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Azure-Database" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
