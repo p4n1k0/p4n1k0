@@ -34,6 +34,7 @@
   <img align="center" alt="Mocha" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg">
   <img align="center" alt="Express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Sequelize" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Axios" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg">
   <img align="center" alt="Insomnia" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="MongoDB" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> 
