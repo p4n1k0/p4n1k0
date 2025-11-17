@@ -17,6 +17,7 @@
   <img align="center" alt="Ubuntu" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
   <img align="center" alt="VScode" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Markdown" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
   <img align="center" alt="Ssh" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg">
   <img align="center" alt="Unix" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
   <img align="center" alt="Eslint" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
