@@ -22,11 +22,13 @@
   <img align="center" alt="Unix" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
   <img align="center" alt="Eslint" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
   <img align="center" alt="JSON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
+  <img align="center" alt="Tailwindcss" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Vite" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg">
   <img align="center" alt="Jest" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ReactRouter" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg">
   <img align="center" alt="Redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Nextjs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Composer" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg">
   <img align="center" alt="Nodemon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg">
   <img align="center" alt="Yaml" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg">
