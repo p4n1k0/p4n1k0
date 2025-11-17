@@ -39,7 +39,8 @@
   <img align="center" alt="Axios" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg">
   <img align="center" alt="Insomnia" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> 
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Mongoose" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg">
   <img align="center" alt="Pytest" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg">
   <img align="center" alt="Selenium" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Pandas" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
