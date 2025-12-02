@@ -47,7 +47,7 @@
   <img align="center" alt="Selenium" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Pandas" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Flask" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-    <img align="center" alt="Django" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="Django" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="DjangoRest" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg">  
   <img align="center" alt="DotNet" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="DotNetcore" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
