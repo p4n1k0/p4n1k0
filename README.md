@@ -11,7 +11,7 @@
 </div>
  <br>
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline-block"><br>
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Debian" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
   <img align="center" alt="Ubuntu" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
