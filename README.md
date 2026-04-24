@@ -1,7 +1,7 @@
 ## Olá! 
 ### Seja bem vindo(a)!👋
 
-🔭 Desenvolvedor Full-Stack </br>
+🔭 Desenvolvedor Full-Stack <br>
 
 <div align="center">
 
