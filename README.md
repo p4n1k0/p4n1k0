@@ -5,10 +5,8 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/p4n1k0?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/p4n1k0">
-</picture>
+ <a href="https://github.com/p4n1k0">
+  <img align="center" height="300em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4n1k0&layout=compact&langs_count=40&theme=react" />
   
 </div>
  <br>
